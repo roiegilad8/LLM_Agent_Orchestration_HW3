@@ -1,0 +1,87 @@
+{
+  "base_sentence": "International collaboration requires consistent communication schedules to support remote scientific projects across multiple time zones and languages. Careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. Regular virtual workshops also help resolve technical questions quickly so progress continues steadily.",
+  "base_length": 56,
+  "agents": [
+    {
+      "name": "English→French Agent",
+      "source_language": "English",
+      "target_language": "French",
+      "description": "Word-level dictionary translator from English to French with fuzzy typo handling."
+    },
+    {
+      "name": "French→Hebrew Agent",
+      "source_language": "French",
+      "target_language": "Hebrew",
+      "description": "Word-level dictionary translator from French to Hebrew with fuzzy typo handling."
+    },
+    {
+      "name": "Hebrew→English Agent",
+      "source_language": "Hebrew",
+      "target_language": "English",
+      "description": "Word-level dictionary translator from Hebrew back to English with fuzzy typo handling."
+    }
+  ],
+  "runs": [
+    {
+      "error_rate": 0.0,
+      "input_sentence": "International collaboration requires consistent communication schedules to support remote scientific projects across multiple time zones and languages. Careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. Regular virtual workshops also help resolve technical questions quickly so progress continues steadily.",
+      "french_translation": "internationale collaboration nécessite cohérentes communication horaires pour soutenir distants scientifiques projets atravers multiples fuseaux horaires et langues. soigneuse données partage garantit équipes restent alignées même pendant imprévus retards car claires actualisations construisent confiance entre partenaires qui rarement rencontrent face pour face en personne. régulières virtuelles ateliers aussi aident résoudre techniques questions rapidement ainsi progrès continue régulièrement.",
+      "hebrew_translation": "בינלאומית שיתוף_פעולה דורשת עקביות תקשורת לוחות כדי לתמוך מרוחקים מדעיים פרויקטים לאורך מרובים אזורים לוחות ו שפות. קפדנית נתונים שיתוף מבטיח צוותים נשארים מתואמים אפילו במהלך בלתי_צפויים עיכובים משום ברורות עדכונים בונות אמון בין שותפים ש לעתים_רחוקות נפגשים פנים כדי פנים ב אדם. סדירות וירטואליות סדנאות גם מסייעות לפתור טכניים שאלות במהירות כך התקדמות נמשכת באופן_קבוע.",
+      "final_sentence": "international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.",
+      "input_length": 56,
+      "final_length": 56,
+      "distance": 0.04620275019530635
+    },
+    {
+      "error_rate": 0.15,
+      "input_sentence": "International collaboration requiret consistent communication schedules to support remote cientific projects across multiple time zones and languages. Careful daat sharing ensures teams stay ligned even during unexpected delays because mlear updates build trust between partners who rarely meet face to face in persn. Regular virtnal workshops also help resolvme technical questions quickly so porgress continues steadily.",
+      "french_translation": "internationale collaboration nécessite cohérentes communication horaires pour soutenir distants scientifiques projets atravers multiples fuseaux horaires et langues. soigneuse données partage garantit équipes restent alignées même pendant imprévus retards car claires actualisations construisent confiance entre partenaires qui rarement rencontrent face pour face en personne. régulières virtuelles ateliers aussi aident résoudre techniques questions rapidement ainsi progrès continue régulièrement.",
+      "hebrew_translation": "בינלאומית שיתוף_פעולה דורשת עקביות תקשורת לוחות כדי לתמוך מרוחקים מדעיים פרויקטים לאורך מרובים אזורים לוחות ו שפות. קפדנית נתונים שיתוף מבטיח צוותים נשארים מתואמים אפילו במהלך בלתי_צפויים עיכובים משום ברורות עדכונים בונות אמון בין שותפים ש לעתים_רחוקות נפגשים פנים כדי פנים ב אדם. סדירות וירטואליות סדנאות גם מסייעות לפתור טכניים שאלות במהירות כך התקדמות נמשכת באופן_קבוע.",
+      "final_sentence": "international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.",
+      "input_length": 56,
+      "final_length": 56,
+      "distance": 0.04620275019530635
+    },
+    {
+      "error_rate": 0.25,
+      "input_sentence": "Internationa clolaboration requires consistent communication schedules to supptort remote scientific projects cross multiple time uzones and languages. Careful ldata sharing ensures teams stay aligned iven during unyxpected delays because clear updates build trust betweesn partnesr who raely meet face to face in person. Regular virtucal workshops also help reslove technical questions qickly so progress continues steadily.",
+      "french_translation": "internationale collaboration nécessite cohérentes communication horaires pour soutenir distants scientifiques projets atravers multiples fuseaux horaires et langues. soigneuse données partage garantit équipes restent alignées même pendant imprévus retards car claires actualisations construisent confiance entre partenaires qui rarement rencontrent face pour face en personne. régulières virtuelles ateliers aussi aident résoudre techniques questions rapidement ainsi progrès continue régulièrement.",
+      "hebrew_translation": "בינלאומית שיתוף_פעולה דורשת עקביות תקשורת לוחות כדי לתמוך מרוחקים מדעיים פרויקטים לאורך מרובים אזורים לוחות ו שפות. קפדנית נתונים שיתוף מבטיח צוותים נשארים מתואמים אפילו במהלך בלתי_צפויים עיכובים משום ברורות עדכונים בונות אמון בין שותפים ש לעתים_רחוקות נפגשים פנים כדי פנים ב אדם. סדירות וירטואליות סדנאות גם מסייעות לפתור טכניים שאלות במהירות כך התקדמות נמשכת באופן_קבוע.",
+      "final_sentence": "international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.",
+      "input_length": 56,
+      "final_length": 56,
+      "distance": 0.04620275019530635
+    },
+    {
+      "error_rate": 0.35,
+      "input_sentence": "Intlernational collazboration requirse consistent communicatino scheldules to suppot remome scientific projects across multiple time zones and fanguages. Creful dpta snharing ensures yeams stay aligned even during uenxpected delays because clear pupdates biuld trust between partners who rarely meet face ot face in person. Regular vitrual workshops also hepl resolve technical questins quickly so progress continues tteadily.",
+      "french_translation": "internationale collaboration nécessite cohérentes communication horaires pour soutenir distants scientifiques projets atravers multiples fuseaux horaires et langues. soigneuse données partage garantit équipes restent alignées même pendant imprévus retards car claires actualisations construisent confiance entre partenaires qui rarement rencontrent face ot face en personne. régulières virtuelles ateliers aussi aident résoudre techniques questions rapidement ainsi progrès continue régulièrement.",
+      "hebrew_translation": "בינלאומית שיתוף_פעולה דורשת עקביות תקשורת לוחות כדי לתמוך מרוחקים מדעיים פרויקטים לאורך מרובים אזורים לוחות ו שפות. קפדנית נתונים שיתוף מבטיח צוותים נשארים מתואמים אפילו במהלך בלתי_צפויים עיכובים משום ברורות עדכונים בונות אמון בין שותפים ש לעתים_רחוקות נפגשים פנים ot פנים ב אדם. סדירות וירטואליות סדנאות גם מסייעות לפתור טכניים שאלות במהירות כך התקדמות נמשכת באופן_קבוע.",
+      "final_sentence": "international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face ot face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.",
+      "input_length": 56,
+      "final_length": 56,
+      "distance": 0.06603207074349747
+    },
+    {
+      "error_rate": 0.45,
+      "input_sentence": "International collaboraion requirse consistet commuincation schydules to support ermote scientimfic projects across multiple time zoneos and languages. Careful djta sharing elnsures teamu mtay aligned even durng unexpected delays because clear updates build trust btetween partnyers wsho rarely meex face to fdace in person. egular virtual workshops also help resovle techncal questions quikly sh pogress contiues syteadily.",
+      "french_translation": "internationale collaboration nécessite cohérentes communication horaires pour soutenir distants scientifiques projets atravers multiples fuseaux horaires et langues. soigneuse données partage garantit équipes restent alignées même pendant imprévus retards car claires actualisations construisent confiance entre partenaires qui rarement rencontrent face pour face en personne. régulières virtuelles ateliers aussi aident résoudre techniques questions rapidement sh progrès continue régulièrement.",
+      "hebrew_translation": "בינלאומית שיתוף_פעולה דורשת עקביות תקשורת לוחות כדי לתמוך מרוחקים מדעיים פרויקטים לאורך מרובים אזורים לוחות ו שפות. קפדנית נתונים שיתוף מבטיח צוותים נשארים מתואמים אפילו במהלך בלתי_צפויים עיכובים משום ברורות עדכונים בונות אמון בין שותפים ש לעתים_רחוקות נפגשים פנים כדי פנים ב אדם. סדירות וירטואליות סדנאות גם מסייעות לפתור טכניים שאלות במהירות sh התקדמות נמשכת באופן_קבוע.",
+      "final_sentence": "international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. regular virtual workshops also help resolve technical questions quickly sh progress continues steadily.",
+      "input_length": 56,
+      "final_length": 56,
+      "distance": 0.06603207074349747
+    },
+    {
+      "error_rate": 0.5,
+      "input_sentence": "Interntional collbaoration requiress consistent communicltion schedules o support remote scientific projects aross multiple time zonest adn lanwuages. Careful data sharing ensrues temas tsay aligned evet durinjg unexpecjed delakys because ckear updtes build tprust between partners ho rasely meewt fgce t face in person. Regular iirtual workshops also help reoslve technical questions quickly so tprogress continues steadily.",
+      "french_translation": "internationale collaboration nécessite cohérentes communication horaires o soutenir distants scientifiques projets atravers multiples fuseaux horaires adn langues. soigneuse données partage garantit équipes restent alignées rencontrent pendant imprévus retards car claires actualisations construisent confiance entre partenaires qui rarement rencontrent face t face en personne. régulières virtuelles ateliers aussi aident résoudre techniques questions rapidement ainsi progrès continue régulièrement.",
+      "hebrew_translation": "בינלאומית שיתוף_פעולה דורשת עקביות תקשורת לוחות o לתמוך מרוחקים מדעיים פרויקטים לאורך מרובים אזורים לוחות adn שפות. קפדנית נתונים שיתוף מבטיח צוותים נשארים מתואמים נפגשים במהלך בלתי_צפויים עיכובים משום ברורות עדכונים בונות אמון בין שותפים ש לעתים_רחוקות נפגשים פנים t פנים ב אדם. סדירות וירטואליות סדנאות גם מסייעות לפתור טכניים שאלות במהירות כך התקדמות נמשכת באופן_קבוע.",
+      "final_sentence": "international collaboration requires consistent communication schedules o support remote scientific projects across multiple zones schedules adn languages. careful data sharing ensures teams stay aligned meet during unexpected delays because clear updates build trust between partners who rarely meet face t face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.",
+      "input_length": 56,
+      "final_length": 56,
+      "distance": 0.1017809579403147
+    }
+  ],
+  "plot_path": "results/spelling_error_distance.svg"
+}
