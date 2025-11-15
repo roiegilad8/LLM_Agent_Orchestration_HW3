@@ -1,0 +1,32 @@
+Base sentence:
+International collaboration requires consistent communication schedules to support remote scientific projects across multiple time zones and languages. Careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. Regular virtual workshops also help resolve technical questions quickly so progress continues steadily.
+
+Error rate 0.00 input:
+International collaboration requires consistent communication schedules to support remote scientific projects across multiple time zones and languages. Careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. Regular virtual workshops also help resolve technical questions quickly so progress continues steadily.
+Final output:
+international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.
+
+Error rate 0.15 input:
+International collaboration requiret consistent communication schedules to support remote cientific projects across multiple time zones and languages. Careful daat sharing ensures teams stay ligned even during unexpected delays because mlear updates build trust between partners who rarely meet face to face in persn. Regular virtnal workshops also help resolvme technical questions quickly so porgress continues steadily.
+Final output:
+international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.
+
+Error rate 0.25 input:
+Internationa clolaboration requires consistent communication schedules to supptort remote scientific projects cross multiple time uzones and languages. Careful ldata sharing ensures teams stay aligned iven during unyxpected delays because clear updates build trust betweesn partnesr who raely meet face to face in person. Regular virtucal workshops also help reslove technical questions qickly so progress continues steadily.
+Final output:
+international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.
+
+Error rate 0.35 input:
+Intlernational collazboration requirse consistent communicatino scheldules to suppot remome scientific projects across multiple time zones and fanguages. Creful dpta snharing ensures yeams stay aligned even during uenxpected delays because clear pupdates biuld trust between partners who rarely meet face ot face in person. Regular vitrual workshops also hepl resolve technical questins quickly so progress continues tteadily.
+Final output:
+international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face ot face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.
+
+Error rate 0.45 input:
+International collaboraion requirse consistet commuincation schydules to support ermote scientimfic projects across multiple time zoneos and languages. Careful djta sharing elnsures teamu mtay aligned even durng unexpected delays because clear updates build trust btetween partnyers wsho rarely meex face to fdace in person. egular virtual workshops also help resovle techncal questions quikly sh pogress contiues syteadily.
+Final output:
+international collaboration requires consistent communication schedules to support remote scientific projects across multiple zones schedules and languages. careful data sharing ensures teams stay aligned even during unexpected delays because clear updates build trust between partners who rarely meet face to face in person. regular virtual workshops also help resolve technical questions quickly sh progress continues steadily.
+
+Error rate 0.50 input:
+Interntional collbaoration requiress consistent communicltion schedules o support remote scientific projects aross multiple time zonest adn lanwuages. Careful data sharing ensrues temas tsay aligned evet durinjg unexpecjed delakys because ckear updtes build tprust between partners ho rasely meewt fgce t face in person. Regular iirtual workshops also help reoslve technical questions quickly so tprogress continues steadily.
+Final output:
+international collaboration requires consistent communication schedules o support remote scientific projects across multiple zones schedules adn languages. careful data sharing ensures teams stay aligned meet during unexpected delays because clear updates build trust between partners who rarely meet face t face in person. regular virtual workshops also help resolve technical questions quickly so progress continues steadily.
