@@ -1,0 +1,23 @@
+ollama:
+  model: llama3.2:3b
+  base_url: http://localhost:11434
+  temperature: 0.3
+  timeout: 30
+
+embeddings:
+  model: sentence-transformers/all-MiniLM-L6-v2
+  device: cpu
+  cache_embeddings: true
+
+experiment:
+  error_rates: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+  num_runs: 3
+  seed: 42
+
+test_sentences:
+  - "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky"
+  - "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives"
+
+logging:
+  level: INFO
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

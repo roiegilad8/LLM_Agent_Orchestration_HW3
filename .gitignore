@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -21,3 +22,31 @@ rad.json
 #Test results file
 TestResults.xml
 __pycache__/
+=======
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+.coverage
+.pytest_cache/
+htmlcov/
+.venv
+venv/
+ENV/
+.vscode/
+.idea/
+results/
+*.json
+*.csv
+*.png
+.ollama/
+*.log
+.ipynb_checkpoints/
+>>>>>>> 3bf79eb (Initial commit: Multi-Agent Translation System - 3 agents, 95% coverage, full docs)
