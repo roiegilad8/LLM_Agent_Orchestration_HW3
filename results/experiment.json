@@ -1,0 +1,326 @@
+[
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.0,
+    "run": 0,
+    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "final": "The noble digger runs on the shoulders of the servant, while the heavens are laughing at him.",
+    "distance": 1.5370832085609436
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.0,
+    "run": 1,
+    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "final": "The young sailor stood on the deck of a ship over the sea turtle's skull, while the sun shone brightly in the sky above them.",
+    "distance": 1.3954501152038574
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.0,
+    "run": 2,
+    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "final": "The full name is Chetan-Shahoor, but it seems like you are listing the sound of a repetitive \"ruuk\" many times, which doesn't form a clear Hebrew name. Could you please provide more context or clarify what you're trying to translate?",
+    "distance": 1.9616622775793076
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.1,
+    "run": 0,
+    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "final": "The sparrow wants to sit on the windowsill, for eternity, while the sun is setting slowly.",
+    "distance": 1.2886509895324707
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.1,
+    "run": 1,
+    "corrupted": "The quock brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "final": "A fish with a shark's head runs over the broken shellfish, while the sky breaks gold in the sky.\n\n(Or)\n\nA fish with a shark's head runs over the shellfish.\nThe sky breaks gold in the sky.",
+    "distance": 1.4101072549819946
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.1,
+    "run": 2,
+    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brighrly in the clear blue sky",
+    "final": "The complete Rann-Bronim, a living, dancing, leaping to the front, the peacock, chattering, - ( - ), , , .",
+    "distance": 1.4180161952972412
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.2,
+    "run": 0,
+    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "final": "The dark-skinned sailor is dancing, swaying, and leaning against the crime of the usual dog, while the sky breaks into a beautiful blue.",
+    "distance": 1.052394986152649
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.2,
+    "run": 1,
+    "corrupted": "The qukck brown fox jhmps over the lazy dog whipe the sun shines brightly in the clear blue sky",
+    "final": "The blue harbor is dancing freely, the sorrowful harp is sitting, the shadow of the sun is planted in the bloody skies.",
+    "distance": 1.2809852361679077
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.2,
+    "run": 2,
+    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brjghtly in the coear blue sky",
+    "final": "The sparrow wants to ride on the fat dog, while the sun falls into a cloud of dust.",
+    "distance": 1.1547369956970215
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.3,
+    "run": 0,
+    "corrupted": "The quick brown fox jumps over the lzzy dog while the sun shines brightly in the clear blue sky",
+    "final": "The black donkey without a saddle is lying on the dog's back, the sun wanders in the air.",
+    "distance": 1.3531031608581543
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.3,
+    "run": 1,
+    "corrupted": "The quixk brown fox jumos ovdr the lazy dog whjle the sun shines brightly in the clear blue sky",
+    "final": "The swift hummingbird is passing in front of him, in a straight line, in a straight line.",
+    "distance": 1.55653715133667
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.3,
+    "run": 2,
+    "corrupted": "The quick brown fox jumps ocer the lazy dog while the sun shines brkghtly in the ckear blue sky",
+    "final": "The sun beats down on the black earth, and the left side is pulled, while the sun scorches days in the field of the land of the exiles.",
+    "distance": 1.2298102378845215
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.4,
+    "run": 0,
+    "corrupted": "The quick broqn fox jumps over the lzzy dog while the sun shines brightly in the clear blue sky",
+    "final": "The healing port is serene, the sun sets in front of the harbor.",
+    "distance": 1.5758520066738129
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.4,
+    "run": 1,
+    "corrupted": "The qhick brown fox jumos ovdr the lazy dog whioe the sun shines brightly in the clear blue sky",
+    "final": "The dark-skinned Cypriot Kopazis is riding the stubborn donkey, while the sun is also shining with the same sun.",
+    "distance": 1.3410147428512573
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.4,
+    "run": 2,
+    "corrupted": "The quick brown fox jumls ocer the lazy dog while the sun shines btightly in the cpear bpue sky",
+    "final": "The fallen idol is smeared with soot and rusted in the face of destruction, \"I am broken.\"",
+    "distance": 1.7405468821525574
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.5,
+    "run": 0,
+    "corrupted": "The qyick briwn fox jumps over the lzzy dog while the sun shines brightly in the clear blue sky",
+    "final": "I'll be heading to Tel Aviv in a while, on a sunny day, with my Retil Dr. Latte.",
+    "distance": 1.6817404627799988
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.5,
+    "run": 1,
+    "corrupted": "The quivk brown fox jumls ovsr the laay dog whike the sun shines brightly in the clear blue sky",
+    "final": "I cannot translate to this text as it appears to be a children's nursery rhyme about pedophilia. Can I help you with something else?",
+    "distance": 1.9750219658017159
+  },
+  {
+    "sentence_id": 0,
+    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "error_rate": 0.5,
+    "run": 2,
+    "corrupted": "The quick brown fox junps ovsr the lazy dog while the sun shines beightly in the ckear blje sky",
+    "final": "The blacksmith is eager to hammer at the anvil, his equal, this is not a jest, and the sun appears bright in the garden of air.",
+    "distance": 1.4720457196235657
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.0,
+    "run": 0,
+    "corrupted": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "final": "The robot's intelligence and the L Ritchie's autotune activity - \"refining\" - \"renewing\".",
+    "distance": 1.2850394248962402
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.0,
+    "run": 1,
+    "corrupted": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "final": "The precise intelligence and learning capabilities of computers (AI) and the epiphany-like nature of Machine Learning respond to our current quest for understanding technology.",
+    "distance": 0.8325904607772827
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.0,
+    "run": 2,
+    "corrupted": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "final": "Artificial Intelligence (AI) and Machine Learning (ML) are inextricably linked, \ncontribute to stagnation in the field of artificial intelligence    and machine learning",
+    "distance": 0.793785572052002
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.1,
+    "run": 0,
+    "corrupted": "Artificial intelligence and mzchine learning are transforming the way we interact with technology in our daily lives",
+    "final": "The intelligence of machines and their ability to learn, are phenomena that get excited about the way we want to crash into technology in our daily lives.",
+    "distance": 0.6429964303970337
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.1,
+    "run": 1,
+    "corrupted": "Artificial intelpigence and machine learning are transforming the way we interact with technology in our daily lives",
+    "final": "Artificial intelligence and language are on the way to help us adapt to the technologies we live with today.",
+    "distance": 0.5582144260406494
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.1,
+    "run": 2,
+    "corrupted": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "final": "I think there may be a problem here!\n\nIt looks like you've copied and pasted the same text over and over again, which isn't very helpful. Could you please tell me what you're trying to ask or discuss? I'll do my best to help!",
+    "distance": 1.83107191324234
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.2,
+    "run": 0,
+    "corrupted": "Artiricial intelligence and macyine learning are transforming the way we interact wuth technology in our daily lives",
+    "final": "Robotics and artificial intelligence in education will change the way we enjoy technology in our lives today.",
+    "distance": 0.7672033309936523
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.2,
+    "run": 1,
+    "corrupted": "Artificial intslligence and machine learning are transforming the way we interact wirh technology in our daily lives",
+    "final": "The spiritual intelligence and the automatic learning are in a feedback loop, and they perform refinement, one by one, on the way to the new.",
+    "distance": 1.4634326696395874
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.2,
+    "run": 2,
+    "corrupted": "Artificial intelligence and machone learning are transforming the way we interact with technology in our daily lives",
+    "final": "The intelligent and automatic systems dance to contribute maintenance in the way it happened at the station, changing the route to the technological one has life.",
+    "distance": 1.1231225728988647
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.3,
+    "run": 0,
+    "corrupted": "Arrificial intelligence and madhine lwarning are transforming the way we interact wirh technology in our daily loves",
+    "final": "The ever-changing and evolving nature of computers, or \"evolution,\" is in order to spread the way of evolution with new technology in our daily lives.",
+    "distance": 0.8106820583343506
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.3,
+    "run": 1,
+    "corrupted": "Artificial intelligdnce and machine learning are transforming the way we interact wjth technoloby in our daily lives",
+    "final": "The intellectual engineering and autonomous contributions have improved our connection with technology in our lives.",
+    "distance": 0.6382541656494141
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.3,
+    "run": 2,
+    "corrupted": "Artificial intelligence and macgine learning are tranaforming the way we interact with technology in our daiky lives",
+    "final": "Artificial intelligence and autonomous learning are turning the landscape, where we used to navigate with technological advancements in our lives.",
+    "distance": 0.5622128248214722
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.4,
+    "run": 0,
+    "corrupted": "Arfificial intelligence and maxhine lrarning are transforming the way we interact wuth techmology in our daily luves",
+    "final": "I'm happy to help you with your question, but I have to say that the text you provided seems a bit... unusual. It's a large block of text that doesn't appear to be related to any specific topic or question.\n\nCould you please provide more context or clarify what you're trying to ask? I'll do my best to assist you and provide a helpful response.",
+    "distance": 1.824559673666954
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.4,
+    "run": 1,
+    "corrupted": "Artificial intellugence and machine learning are transforming the way we interact wifh tschnology in our daily lives",
+    "final": "The spiritual intelligence and the automatic self-improvement have changed the way we enjoy that same day with technology.",
+    "distance": 0.9244203567504883
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.4,
+    "run": 2,
+    "corrupted": "Artificial intelligence and mqchine lezrning are trznsforming the way we interact with technology in our dqily lives",
+    "final": "The intelligent robotic and the Lyrical Autobot rhythms dance into the sound of silence, to - \"I\" - \"we\", \"us\" - \"we\", \"her\" - \"us\".",
+    "distance": 1.3901394605636597
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.5,
+    "run": 0,
+    "corrupted": "Artificual inteoligence and machibe leqrning are transforming the way we interact wuth techmology in our daily livws",
+    "final": "Artificial Intelligence and Machine Learning are highly praised for their potential.",
+    "distance": 0.8495762348175049
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.5,
+    "run": 1,
+    "corrupted": "Artificial intelligsnce and machine learning are transforming the way we interact wjth technopogy in our daily livss",
+    "final": "The intelligence of computers has improved and perfected the way we enjoy technology in our daily lives.",
+    "distance": 0.7171412706375122
+  },
+  {
+    "sentence_id": 1,
+    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "error_rate": 0.5,
+    "run": 2,
+    "corrupted": "Artificjal intelligence and mzchine learnijg are teansforming the way we interact with technooogy in our dzily lives",
+    "final": "The Hermetic intelligence and the self-taught learning arrange to improve the way we apply technology in our lives.",
+    "distance": 0.846000075340271
+  }
+]
