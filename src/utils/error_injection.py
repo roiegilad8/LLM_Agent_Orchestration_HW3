@@ -22,6 +22,7 @@ KEYBOARD_NEIGHBORS = {
 }
 
 
+
 def inject_typo(word: str) -> str:
     """Inject a single typo into a word by replacing one character."""
     if len(word) < 4:
@@ -39,6 +40,14 @@ def inject_typo(word: str) -> str:
 
 def inject_errors(text: str, error_rate: float, seed: int = 42) -> str:
     """Inject spelling errors into text at specified rate."""
+
+    # Validate error_rate
+    if not 0.0 <= error_rate <= 1.0:
+        raise ValueError(f"error_rate must be between 0.0 and 1.0, got {error_rate}")
+    
+    if error_rate == 0.0:
+        return text
+
     random.seed(seed)
     
     words = text.split()

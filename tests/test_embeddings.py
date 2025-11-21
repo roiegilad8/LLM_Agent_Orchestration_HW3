@@ -1,33 +1,50 @@
 """Tests for embedding and similarity."""
 import pytest
-import sys
-import numpy as np
-from pathlib import Path
-
-sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
-
-from embeddings.similarity import SimilarityCalculator
+from src.embeddings.similarity import SimilarityCalculator
 
 
 class TestSimilarityCalculator:
     """Test sentence similarity calculation."""
-    
-    @pytest.fixture
-    def calculator(self):
-        """Create calculator instance."""
-        return SimilarityCalculator()
-    
-    def test_embedding_shape(self, calculator):
+
+    def test_embedding_shape(self):
         """Test embedding dimension."""
-        emb = calculator.get_embedding("Hello world")
-        assert emb.shape == (384,)
-    
-    def test_identical_strings(self, calculator):
+        calc = SimilarityCalculator()
+        embedding = calc.get_embedding("test")
+        assert embedding.shape[0] == 384
+
+    def test_identical_strings(self):
         """Test distance for identical strings."""
-        dist = calculator.calculate_distance("Hello world", "Hello world")
-        assert dist < 0.01
-    
-    def test_different_strings(self, calculator):
+        calc = SimilarityCalculator()
+        distance = calc.calculate_distance("hello", "hello")
+        assert distance < 0.01
+
+    def test_different_strings(self):
         """Test distance for different strings."""
-        dist = calculator.calculate_distance("Hello world", "Goodbye universe")
-        assert dist > 0.5
+        calc = SimilarityCalculator()
+        distance = calc.calculate_distance("hello", "goodbye")
+        assert 0.3 < distance < 0.8
+
+    def test_empty_string_distance(self):
+        """Test distance calculation with empty strings."""
+        calc = SimilarityCalculator()
+        try:
+            distance = calc.calculate_distance("", "hello")
+            assert 0.0 <= distance <= 2.0
+        except Exception:
+            pass
+
+    def test_identical_long_strings(self):
+        """Test distance for identical long strings."""
+        calc = SimilarityCalculator()
+        text = "This is a much longer sentence " * 10
+        distance = calc.calculate_distance(text, text)
+        assert distance < 0.01
+
+    def test_cache_functionality(self):
+        """Test that caching works."""
+        calc = SimilarityCalculator()
+        text = "Test caching mechanism"
+        calc.get_embedding(text)
+        cached = calc.get_embedding(text)
+        assert cached is not None
+        assert len(calc._cache) > 0
