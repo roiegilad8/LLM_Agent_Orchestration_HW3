@@ -18,10 +18,29 @@ The system uses Ollama local LLMs to perform sequential translations while injec
 
 ## Installation
 
-### Prerequisites
-- Python 3.10 or higher
-- Ollama installed with llama3.2:3b model
-- pip package manager
+##Prerequisites
+Python 3.10 or higher
+pip package manager
+Git (for cloning)
+Install Ollama
+On Linux/WSL:
+bash
+curl -fsSL https://ollama.com/install.sh | sh
+
+On macOS:
+bash
+brew install ollama
+
+On Windows:
+Download from ollama.com/download
+Pull the required model:
+bash
+ollama pull llama3.2:1b
+
+Verify installation:
+bash
+ollama --version
+ollama list  # Should show llama3.2:1b
 
 ### Setup Steps
 
