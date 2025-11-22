@@ -168,6 +168,25 @@ test_sentences:
 
 All dependencies are listed in `requirements.txt`
 
+
+## 💰 Cost Breakdown
+
+This project uses **Ollama** (free, local LLMs), so there are **no API costs**.
+
+| Component | Provider | Cost |
+|-----------|----------|------|
+| Translation (llama3.2:1b) | Ollama (local) | $0.00 |
+| Embeddings (all-MiniLM-L6-v2) | sentence-transformers | $0.00 |
+| **Total** | - | **$0.00** |
+
+### Resource Usage
+- **Disk Space:** ~2GB for Ollama models
+- **RAM:** ~4GB during experiment runs
+- **Runtime:** ~20-25 minutes for 18 experiments (6 error rates × 3 sentences)
+- **CPU:** Utilizes 4-8 cores during translation
+
+
+
 ## Testing
 
 Run the test suite:

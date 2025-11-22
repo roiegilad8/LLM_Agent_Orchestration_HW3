@@ -52,3 +52,37 @@ class TestErrorInjection:
         with pytest.raises(ValueError):
             inject_errors("test", 1.5)
 
+
+
+    def test_error_injection_empty_string():
+        """Test error injection with empty string."""
+        from src.utils.error_injection import inject_errors
+        result = inject_errors("", error_rate=0.5, seed=42)
+        assert result == ""
+
+
+    def test_error_injection_reproducibility():
+        """Test same seed produces same errors."""
+        from src.utils.error_injection import inject_errors
+        text = "Testing reproducibility"
+        result1 = inject_errors(text, error_rate=0.3, seed=100)
+        result2 = inject_errors(text, error_rate=0.3, seed=100)
+        assert result1 == result2
+
+
+    def test_error_injection_different_seeds():
+        """Test different seeds produce different errors."""
+        from src.utils.error_injection import inject_errors
+        text = "Testing randomness with longer text"
+        result1 = inject_errors(text, error_rate=0.3, seed=1)
+        result2 = inject_errors(text, error_rate=0.3, seed=2)
+        assert result1 != result2
+
+
+    def test_error_rate_zero():
+        """Test 0% error rate returns original."""
+        from src.utils.error_injection import inject_errors
+        text = "No errors expected"
+        result = inject_errors(text, error_rate=0.0, seed=42)
+        assert result == text
+
