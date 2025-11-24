@@ -1,23 +1,37 @@
+# Multi-Agent Translation Analysis Configuration
+# Last Updated: November 24, 2025
+
+# Ollama LLM Configuration
 ollama:
   model: llama3.2:3b
   base_url: http://localhost:11434
   temperature: 0.3
-  timeout: 30
 
-embeddings:
-  model: sentence-transformers/all-MiniLM-L6-v2
-  device: cpu
-  cache_embeddings: true
-
+# Experiment Parameters
 experiment:
   error_rates: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
   num_runs: 3
   seed: 42
 
+# Test Sentences (15+ words each)
 test_sentences:
-  - "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky"
-  - "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives"
+  - "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon"
+  - "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions"
+  - "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently"
 
+# Embedding Model Configuration
+embedding:
+  model: all-MiniLM-L6-v2
+  device: auto  # auto, cpu, cuda, mps
+  batch_size: 32
+
+# Output Configuration
+output:
+  results_dir: results
+  graph_dpi: 300
+  save_intermediate: false
+
+# Logging Configuration
 logging:
   level: INFO
   format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
