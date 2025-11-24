@@ -54,7 +54,9 @@ class BaseAgent(ABC):
                     {"role": "user", "content": text}
                 ],
                 stream=False,
-                options={"temperature": self.temperature}
+                options={"temperature": self.temperature,
+			 "num_predict": 300,
+			 "timeout": 60.0}
             )
             
             output = response['message']['content'].strip()
