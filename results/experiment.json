@@ -1,326 +1,488 @@
 [
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.0,
     "run": 0,
-    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
-    "final": "The noble digger runs on the shoulders of the servant, while the heavens are laughing at him.",
-    "distance": 1.5370832085609436
+    "corrupted": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
+    "final": "The robin is free from her mate for six days under the protection of the doves in the garden.",
+    "distance": 0.79024338722229
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.0,
     "run": 1,
-    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
-    "final": "The young sailor stood on the deck of a ship over the sea turtle's skull, while the sun shone brightly in the sky above them.",
-    "distance": 1.3954501152038574
+    "corrupted": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
+    "final": "The gold port wants to soar, it ruins the square of dreams with \"sh\".",
+    "distance": 0.9834749400615692
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.0,
     "run": 2,
-    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
-    "final": "The full name is Chetan-Shahoor, but it seems like you are listing the sound of a repetitive \"ruuk\" many times, which doesn't form a clear Hebrew name. Could you please provide more context or clarify what you're trying to translate?",
-    "distance": 1.9616622775793076
+    "corrupted": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
+    "final": "The dark-skinned sailor lies on his back in the evening, asking the dog lying beside him, \"Al-dh'r?\"",
+    "distance": 0.7355858683586121
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.1,
     "run": 0,
-    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
-    "final": "The sparrow wants to sit on the windowsill, for eternity, while the sun is setting slowly.",
-    "distance": 1.2886509895324707
+    "corrupted": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
+    "final": "The golden renegade rock musician yelled at a stray dog in the streets of Jerusalem.",
+    "distance": 0.8733583688735962
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.1,
     "run": 1,
-    "corrupted": "The quock brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
-    "final": "A fish with a shark's head runs over the broken shellfish, while the sky breaks gold in the sky.\n\n(Or)\n\nA fish with a shark's head runs over the shellfish.\nThe sky breaks gold in the sky.",
-    "distance": 1.4101072549819946
+    "corrupted": "The quock brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
+    "final": "The nimrod is dancing in the hail, between the eleventh and twelfth, on a stormy night.",
+    "distance": 0.7412226796150208
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.1,
     "run": 2,
-    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brighrly in the clear blue sky",
-    "final": "The complete Rann-Bronim, a living, dancing, leaping to the front, the peacock, chattering, - ( - ), , , .",
-    "distance": 1.4180161952972412
+    "corrupted": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
+    "final": "The sparrow wants to sit on the left without a hitch.",
+    "distance": 0.7932704985141754
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.2,
     "run": 0,
-    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
-    "final": "The dark-skinned sailor is dancing, swaying, and leaning against the crime of the usual dog, while the sky breaks into a beautiful blue.",
-    "distance": 1.052394986152649
+    "corrupted": "The quick brown fox jumps over the lazy dog in the forrst during a beautiful sunny afternoon",
+    "final": "The magpie wants a mouse, in the early afternoon, on an expensive day.",
+    "distance": 0.5989466905593872
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.2,
     "run": 1,
-    "corrupted": "The qukck brown fox jhmps over the lazy dog whipe the sun shines brightly in the clear blue sky",
-    "final": "The blue harbor is dancing freely, the sorrowful harp is sitting, the shadow of the sun is planted in the bloody skies.",
-    "distance": 1.2809852361679077
+    "corrupted": "The qhick brown fox jumps over the lazy dog in the forwst during a beautiful sunny afternoon",
+    "final": "The golden reed sways gently on the abandoned bench in Milan.",
+    "distance": 0.8833428099751472
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.2,
     "run": 2,
-    "corrupted": "The quick brown fox jumps over the lazy dog while the sun shines brjghtly in the coear blue sky",
-    "final": "The sparrow wants to ride on the fat dog, while the sun falls into a cloud of dust.",
-    "distance": 1.1547369956970215
+    "corrupted": "The quick brpwn fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
+    "final": "The snake is considered the first to be in love with snow, hail, mud, or himself, most of the time he finds it hard to catch a star.",
+    "distance": 0.7144965529441833
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.3,
     "run": 0,
-    "corrupted": "The quick brown fox jumps over the lzzy dog while the sun shines brightly in the clear blue sky",
-    "final": "The black donkey without a saddle is lying on the dog's back, the sun wanders in the air.",
-    "distance": 1.3531031608581543
+    "corrupted": "The quick brown fox jumos over the lazy dog in the fotest during a beautiful sunny afternion",
+    "final": "The blue port is dancing freely between the good and the bad, lying on its rails, in the Keren light rail system in the mild Southern region.",
+    "distance": 0.8637441694736481
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.3,
     "run": 1,
-    "corrupted": "The quixk brown fox jumos ovdr the lazy dog whjle the sun shines brightly in the clear blue sky",
-    "final": "The swift hummingbird is passing in front of him, in a straight line, in a straight line.",
-    "distance": 1.55653715133667
+    "corrupted": "The qukck broan fox jumps over the lazy dog in the fkrest duribg a beautiful sunny afternoon",
+    "final": "The melancholy dove is dancing on the back of the forest cat, in the city of the shelters, in the city of the shelters, in the city of the shelters.",
+    "distance": 0.6351098418235779
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.3,
     "run": 2,
-    "corrupted": "The quick brown fox jumps ocer the lazy dog while the sun shines brkghtly in the ckear blue sky",
-    "final": "The sun beats down on the black earth, and the left side is pulled, while the sun scorches days in the field of the land of the exiles.",
-    "distance": 1.2298102378845215
+    "corrupted": "The quick briwn fox jumps over the lazy dog in the forest during a beautiful synny afternoon",
+    "final": "The black cat wants a broom on the dog's back in the city.",
+    "distance": 0.7752155363559723
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.4,
     "run": 0,
-    "corrupted": "The quick broqn fox jumps over the lzzy dog while the sun shines brightly in the clear blue sky",
-    "final": "The healing port is serene, the sun sets in front of the harbor.",
-    "distance": 1.5758520066738129
+    "corrupted": "The quick brown fox jumos over the lazy dog in the foeest dyring a beautiful sunny aftermoon",
+    "final": "The dark ports are corrupt, lazy, ridiculous, one of a kind.",
+    "distance": 0.9416236914694309
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.4,
     "run": 1,
-    "corrupted": "The qhick brown fox jumos ovdr the lazy dog whioe the sun shines brightly in the clear blue sky",
-    "final": "The dark-skinned Cypriot Kopazis is riding the stubborn donkey, while the sun is also shining with the same sun.",
-    "distance": 1.3410147428512573
+    "corrupted": "The quuck broan fox jumps over the laxy dog in the forezt duribg a beautiful sunny afternoon",
+    "final": "The aguz (a type of reed) chased the reed, which slid on a slippery surface, then fell silently, in an elegant setting where a beautiful white dress was torn.",
+    "distance": 0.824988603591919
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.4,
     "run": 2,
-    "corrupted": "The quick brown fox jumls ocer the lazy dog while the sun shines btightly in the cpear bpue sky",
-    "final": "The fallen idol is smeared with soot and rusted in the face of destruction, \"I am broken.\"",
-    "distance": 1.7405468821525574
+    "corrupted": "The quick btown fox jimps over the lazy dog in the forest during a beautiful synny afternoon",
+    "final": "The regular housewife of the town is free to walk her idle dog in the town, alongside a moon that walks.",
+    "distance": 0.7489586770534515
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.5,
     "run": 0,
-    "corrupted": "The qyick briwn fox jumps over the lzzy dog while the sun shines brightly in the clear blue sky",
-    "final": "I'll be heading to Tel Aviv in a while, on a sunny day, with my Retil Dr. Latte.",
-    "distance": 1.6817404627799988
+    "corrupted": "The quivk broen fox jymps over the lazy dog in the fkrest dueing a beautiful sunny arternoon",
+    "final": "The first ship doctored the wounded sailor on board in Carmel's harbor after he was set aflame.",
+    "distance": 1.03633027151227
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.5,
     "run": 1,
-    "corrupted": "The quivk brown fox jumls ovsr the laay dog whike the sun shines brightly in the clear blue sky",
-    "final": "I cannot translate to this text as it appears to be a children's nursery rhyme about pedophilia. Can I help you with something else?",
-    "distance": 1.9750219658017159
+    "corrupted": "The qujck brpwn fox jumps ober the lqzy dog in the fkrest durjng a beautiful sunny afrernoon",
+    "final": "The sailor longed for the emotional scar on the city's cheek, before the happy, the sad, the \"but\".",
+    "distance": 0.8631964921951294
   },
   {
     "sentence_id": 0,
-    "original": "The quick brown fox jumps over the lazy dog while the sun shines brightly in the clear blue sky",
+    "original": "The quick brown fox jumps over the lazy dog in the forest during a beautiful sunny afternoon",
     "error_rate": 0.5,
     "run": 2,
-    "corrupted": "The quick brown fox junps ovsr the lazy dog while the sun shines beightly in the ckear blje sky",
-    "final": "The blacksmith is eager to hammer at the anvil, his equal, this is not a jest, and the sun appears bright in the garden of air.",
-    "distance": 1.4720457196235657
+    "corrupted": "The quick beown fox jumls over the lazy dog in the forest durimg a beautiful sinny afternoon",
+    "final": "Heron the Swift and Boeuf cross over to the table of the banquet, where Shenhar says: \"What is this strange noise?\"",
+    "distance": 0.8601445257663727
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.0,
     "run": 0,
-    "corrupted": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
-    "final": "The robot's intelligence and the L Ritchie's autotune activity - \"refining\" - \"renewing\".",
-    "distance": 1.2850394248962402
+    "corrupted": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
+    "final": "Algorithms for computational trading output robust data to fix errors and decisions.",
+    "distance": 0.6976573467254639
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.0,
     "run": 1,
-    "corrupted": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
-    "final": "The precise intelligence and learning capabilities of computers (AI) and the epiphany-like nature of Machine Learning respond to our current quest for understanding technology.",
-    "distance": 0.8325904607772827
+    "corrupted": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
+    "final": "Algorithms for learning material from management like solids, which will extract the best part of the information to be presented in a clear and concise manner.",
+    "distance": 0.6566973924636841
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.0,
     "run": 2,
-    "corrupted": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
-    "final": "Artificial Intelligence (AI) and Machine Learning (ML) are inextricably linked, \ncontribute to stagnation in the field of artificial intelligence    and machine learning",
-    "distance": 0.793785572052002
+    "corrupted": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
+    "final": "The algorithms assigned to the automated educational software \"Sefir\" in 2023 were:",
+    "distance": 0.7616870999336243
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.1,
     "run": 0,
-    "corrupted": "Artificial intelligence and mzchine learning are transforming the way we interact with technology in our daily lives",
-    "final": "The intelligence of machines and their ability to learn, are phenomena that get excited about the way we want to crash into technology in our daily lives.",
-    "distance": 0.6429964303970337
+    "corrupted": "Machine learning algorithms process large amounts of data to make axcurate predictions and informed decisions",
+    "final": "Algorithms for automatic Hebrew transcription are a good thing, to put it mildly, \"The Synthesizers\".",
+    "distance": 0.8396252393722534
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.1,
     "run": 1,
-    "corrupted": "Artificial intelpigence and machine learning are transforming the way we interact with technology in our daily lives",
-    "final": "Artificial intelligence and language are on the way to help us adapt to the technologies we live with today.",
-    "distance": 0.5582144260406494
+    "corrupted": "Macbine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
+    "final": "The algorithms for the MAIB's dance are treated with large quantities of data, to make precise time-series predictions and informed decisions.",
+    "distance": 0.5724256038665771
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.1,
     "run": 2,
-    "corrupted": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
-    "final": "I think there may be a problem here!\n\nIt looks like you've copied and pasted the same text over and over again, which isn't very helpful. Could you please tell me what you're trying to ask or discuss? I'll do my best to help!",
-    "distance": 1.83107191324234
+    "corrupted": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
+    "final": "Algorithm for legislative drafting utilizes data and learning.",
+    "distance": 0.7123736143112183
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.2,
     "run": 0,
-    "corrupted": "Artiricial intelligence and macyine learning are transforming the way we interact wuth technology in our daily lives",
-    "final": "Robotics and artificial intelligence in education will change the way we enjoy technology in our lives today.",
-    "distance": 0.7672033309936523
+    "corrupted": "Maxhine leqrning algorithms process large amounts of data to make accurage predictions and informed decisions",
+    "final": "The algorithms of Lrick (Maxhine) add common features like those of a servant, to serve.",
+    "distance": 0.8687174171209335
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.2,
     "run": 1,
-    "corrupted": "Artificial intslligence and machine learning are transforming the way we interact wirh technology in our daily lives",
-    "final": "The spiritual intelligence and the automatic learning are in a feedback loop, and they perform refinement, one by one, on the way to the new.",
-    "distance": 1.4634326696395874
+    "corrupted": "Mavhine learning algorithms process laege amounts of data to make accurate predictikns and informed decisions",
+    "final": "Algorithms for the rikud are highly important to send, turn, and rotate.",
+    "distance": 0.757636547088623
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.2,
     "run": 2,
-    "corrupted": "Artificial intelligence and machone learning are transforming the way we interact with technology in our daily lives",
-    "final": "The intelligent and automatic systems dance to contribute maintenance in the way it happened at the station, changing the route to the technological one has life.",
-    "distance": 1.1231225728988647
+    "corrupted": "Machine learning algorithms process large amounts of data to make accurate predictions and informwd decisions",
+    "final": "Algorithms for cross-domain information are becoming increasingly prevalent in large amounts of data, to improve ontologies and to fix decisions.",
+    "distance": 0.6285467147827148
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.3,
     "run": 0,
-    "corrupted": "Arrificial intelligence and madhine lwarning are transforming the way we interact wirh technology in our daily loves",
-    "final": "The ever-changing and evolving nature of computers, or \"evolution,\" is in order to spread the way of evolution with new technology in our daily lives.",
-    "distance": 0.8106820583343506
+    "corrupted": "Mzchine leqrning algorithms process large amounts of data to make accirate predictiobs and informed decisions",
+    "final": "Algorithms for travel itinerary requests are often based on data entry from small to large amounts of information, making predictions accurate.",
+    "distance": 0.4640474319458008
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.3,
     "run": 1,
-    "corrupted": "Artificial intelligdnce and machine learning are transforming the way we interact wjth technoloby in our daily lives",
-    "final": "The intellectual engineering and autonomous contributions have improved our connection with technology in our lives.",
-    "distance": 0.6382541656494141
+    "corrupted": "Machkne learning algorithks process larve amounts of data to make accurate prsdictions and informed decisions",
+    "final": "The automated learning deals with algorism, treating quantities of important data for predictions and enlightened decisions.",
+    "distance": 0.4744529724121094
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.3,
     "run": 2,
-    "corrupted": "Artificial intelligence and macgine learning are tranaforming the way we interact with technology in our daiky lives",
-    "final": "Artificial intelligence and autonomous learning are turning the landscape, where we used to navigate with technological advancements in our lives.",
-    "distance": 0.5622128248214722
+    "corrupted": "Machine learning algorithms process large amounts of data to make accurate predictoons and ihformed decisions",
+    "final": "Algorithms for social dance lead to large patterns of data, parameters of the statistics and their importance are established.",
+    "distance": 0.6899454295635223
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.4,
     "run": 0,
-    "corrupted": "Arfificial intelligence and maxhine lrarning are transforming the way we interact wuth techmology in our daily luves",
-    "final": "I'm happy to help you with your question, but I have to say that the text you provided seems a bit... unusual. It's a large block of text that doesn't appear to be related to any specific topic or question.\n\nCould you please provide more context or clarify what you're trying to ask? I'll do my best to assist you and provide a helpful response.",
-    "distance": 1.824559673666954
+    "corrupted": "Machibe learnibg algorithms prpcess lqrge amounts of data to make acdurate predictuons and informed decisions",
+    "final": "Algorithms for decision-making are crucial, and we train on large amounts of data to achieve precise predictions and informed decisions.",
+    "distance": 0.24004912376403809
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.4,
     "run": 1,
-    "corrupted": "Artificial intellugence and machine learning are transforming the way we interact wifh tschnology in our daily lives",
-    "final": "The spiritual intelligence and the automatic self-improvement have changed the way we enjoy that same day with technology.",
-    "distance": 0.9244203567504883
+    "corrupted": "Mschine learning algorifhms process larhe anounts of daya to make accurate pdedictions and informed decisions",
+    "final": "Algorithms for automatic Hebrew vaccination are being developed.",
+    "distance": 0.8118262737989426
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.4,
     "run": 2,
-    "corrupted": "Artificial intelligence and mqchine lezrning are trznsforming the way we interact with technology in our dqily lives",
-    "final": "The intelligent robotic and the Lyrical Autobot rhythms dance into the sound of silence, to - \"I\" - \"we\", \"us\" - \"we\", \"her\" - \"us\".",
-    "distance": 1.3901394605636597
+    "corrupted": "Machine leqrning akgorithms process large amounts of data to make accurate predixtions and infotmed decisions",
+    "final": "Machine learning algorithms claim to treat large amounts of data to make precise predictions and informed decisions.",
+    "distance": 0.08507126569747925
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.5,
     "run": 0,
-    "corrupted": "Artificual inteoligence and machibe leqrning are transforming the way we interact wuth techmology in our daily livws",
-    "final": "Artificial Intelligence and Machine Learning are highly praised for their potential.",
-    "distance": 0.8495762348175049
+    "corrupted": "Machime learnibg algorithms pricess lqrge amounts of data to mzke acxurate peedictions and informed decisions",
+    "final": "Algorithms for automatic decision-making work with large amounts of noise to make a description - head, should be.",
+    "distance": 0.5243582427501678
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.5,
     "run": 1,
-    "corrupted": "Artificial intelligsnce and machine learning are transforming the way we interact wjth technopogy in our daily livss",
-    "final": "The intelligence of computers has improved and perfected the way we enjoy technology in our daily lives.",
-    "distance": 0.7171412706375122
+    "corrupted": "Machjne lsarning algorifhms process larfe anounts of daya to make accurate predictioms and informed decisions",
+    "final": "Algorithms for answering the thought process jumps, or \"wide and deep\", combine a large dataset, which perceives the type of solidification and encouragement of the journey that leads to all sorts of mind-bending scenarios that are part of the creative process.",
+    "distance": 0.5805776119232178
   },
   {
     "sentence_id": 1,
-    "original": "Artificial intelligence and machine learning are transforming the way we interact with technology in our daily lives",
+    "original": "Machine learning algorithms process large amounts of data to make accurate predictions and informed decisions",
     "error_rate": 0.5,
     "run": 2,
-    "corrupted": "Artificjal intelligence and mzchine learnijg are teansforming the way we interact with technooogy in our dzily lives",
-    "final": "The Hermetic intelligence and the self-taught learning arrange to improve the way we apply technology in our lives.",
-    "distance": 0.846000075340271
+    "corrupted": "Machine lwarning altorithms process large amounts of data to make accurate ptedictions and intormed decisiojs",
+    "final": "Algorithms for internal testing of good faith are as usual, straight A's.",
+    "distance": 0.8003048151731491
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.0,
+    "run": 0,
+    "corrupted": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "final": "The engineering principles of intelligence influence our connection with technology, and they pose a challenge to explore endless questions.",
+    "distance": 0.4324758052825928
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.0,
+    "run": 1,
+    "corrupted": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "final": "The artificial intelligence systems are part of the generation of the digital age of man and are built from the emotions of kings of efficiency.",
+    "distance": 0.3995511531829834
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.0,
+    "run": 2,
+    "corrupted": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "final": "The Inteligent Systems Artificial Intelligence is modified for interaction with humans through daily conversations about the technology and its future peace for family members of the cabinet.",
+    "distance": 0.426080584526062
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.1,
+    "run": 0,
+    "corrupted": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "final": "The frameworks for algorithmic maintenance remind us of the way we work with technology and address multi-dimensional challenges.",
+    "distance": 0.5078202784061432
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.1,
+    "run": 1,
+    "corrupted": "Artifocial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "final": "The apparatus of table manners records the way in which man enjoys technology both in eating and in conversation.",
+    "distance": 0.7460288107395172
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.1,
+    "run": 2,
+    "corrupted": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "final": "The shortcuts for intellectual articles that respond to the way we compromise on technology and look for solutions to complex questions in an active manner.",
+    "distance": 0.4665566682815552
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.2,
+    "run": 0,
+    "corrupted": "Artiricial intelkigence systems transform the way we interact with technology and solve complex problems efficiently",
+    "final": "The equipment for algorithmic technical services is used in the administrative service of women in the technological service of the Ministry of Industry, of the Ministry of Science and Technology, of the Ministry of Economy and Industry.",
+    "distance": 0.6383293271064758
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.2,
+    "run": 1,
+    "corrupted": "Artjficial intelligence systems transform the way we interact with technology and sopve complex problems efficiently",
+    "final": "The systems for ionization will connect (AI) the high-performance engines,  air filters,  the areas,  the (AI) air filters.",
+    "distance": 0.6465606689453125
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.2,
+    "run": 2,
+    "corrupted": "Artificial intelligence systems transform the way we interact woth technology and solve complex probkems efficiently",
+    "final": "The frameworks for multi-faceted intelligence operations, repair, and accommodation.",
+    "distance": 0.526611328125
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.3,
+    "run": 0,
+    "corrupted": "Artiricial intelkigence systems transform the way we interact with technology and solce complex problems efficiently",
+    "final": "The mechanisms for algorithmic addiction lead us down the path where we become entrenched in technology and penalized around non-realistic scenarios.",
+    "distance": 0.5581187009811401
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.3,
+    "run": 1,
+    "corrupted": "Artificisl intelligence systsms transform the way we interact with technology and solce complex problems efficiently",
+    "final": "The automatic intelligence apparatus serves to fine-tune the way we interact with technology, hinting at a tendency to misinterpret or overthink things.",
+    "distance": 0.5328681468963623
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.3,
+    "run": 2,
+    "corrupted": "Artificial intelligence systems transform the way we interact woth technology and sokve complex probkems efficiently",
+    "final": "The mechanisms for intellectual artifical enhancement are meant to expand on the path we take with technology and resistance.",
+    "distance": 0.5975785851478577
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.4,
+    "run": 0,
+    "corrupted": "Arrificial intekligence systems teansform the way we interact with technology and solbe complex problems efficiently",
+    "final": "The marketing strategies for intellectual elitism emphasize the way to enjoy the community with technology and offer solutions for navigation of cluttered environments.",
+    "distance": 0.6542395949363708
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.4,
+    "run": 1,
+    "corrupted": "Arfificial intelligence systens transform the way we intersct with technology and solbe complex problems efficiently",
+    "final": "The automatic maneuver of the AI is setting the course for how we kiss with technology, and it turns to immediate desires.",
+    "distance": 0.5125186443328857
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.4,
+    "run": 2,
+    "corrupted": "Artificial intelligenxe sustems transform the way we interact wiyh technology and silve complex provlems efficiently",
+    "final": "The mechanisms of the mind influence our organization with technology, and they suit all kinds of problem-solving approaches.",
+    "distance": 0.47642630338668823
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.5,
+    "run": 0,
+    "corrupted": "Arfificial intwlligence systems ttansform the way we interact with techbology and silve complex problems efficiently",
+    "final": "The mechanisms for artificial intelligence lawsuits have emerged in the way we connect with technology and want to clear our conscience on the network.",
+    "distance": 0.4903603792190552
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.5,
+    "run": 1,
+    "corrupted": "Artificizl intelligenve sgstems transform the way we intersct with technology and sopve complex problems efficiently",
+    "final": "The frameworks for intelligence artificial improvement behavior crossed over into non-tech with a new rule that solves the problem of numbers.",
+    "distance": 0.47932732105255127
+  },
+  {
+    "sentence_id": 2,
+    "original": "Artificial intelligence systems transform the way we interact with technology and solve complex problems efficiently",
+    "error_rate": 0.5,
+    "run": 2,
+    "corrupted": "Artificial inyelligence systeks transform the way we interact wkth technology and silve complex ptoblems efficjently",
+    "final": "The electronic construction AI will repair the way of thinking about technology.",
+    "distance": 0.4800010919570923
   }
 ]
