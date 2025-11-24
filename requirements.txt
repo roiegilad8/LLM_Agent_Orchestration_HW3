@@ -1,13 +1,26 @@
-ollama==0.3.1
-sentence-transformers==2.2.2
-pytest==7.4.3
-pytest-cov==4.1.0
-typer==0.9.0
-rich==13.7.0
-matplotlib==3.8.2
-pandas==2.1.4
-jupyter==1.0.0
-scikit-learn==1.3.2
-pyyaml==6.0.1
-python-dotenv==1.0.0
-numpy==1.26.2
+# Multi-Agent Translation Analysis System - Requirements
+# Updated: November 24, 2025
+# Python 3.10+
+
+# Core dependencies
+typer>=0.12.0              # CLI framework (FIXED: was 0.9.0)
+rich>=13.0.0              # Terminal output formatting
+pyyaml>=6.0               # Configuration management
+
+# LLM & NLP
+sentence-transformers>=5.1.2   # Embeddings (FIXED: was 2.2.2)
+transformers>=4.30.0      # NLP utilities
+torch>=2.0.0              # Deep learning backend
+
+# Data & Analysis
+numpy>=1.24.0             # Numerical computing
+pandas>=2.0.0             # Data manipulation
+scipy>=1.10.0             # Scientific computing
+
+# Visualization
+matplotlib>=3.7.0         # Plotting
+seaborn>=0.12.0           # Statistical visualization
+
+# Testing
+pytest>=7.3.0             # Testing framework
+pytest-cov>=4.1.0         # Coverage reporting
