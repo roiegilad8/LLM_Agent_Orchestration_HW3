@@ -88,7 +88,7 @@ jobs:
     - name: Check code formatting with black
       run: |
         black --check src tests || true
-
+֫֫֫֫
     - name: Check import sorting with isort
       run: |
         isort --check-only src tests || true
