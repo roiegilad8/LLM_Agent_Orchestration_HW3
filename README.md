@@ -4,7 +4,7 @@
 
 **Course:** LLM Agent Orchestration
 
-**Instructor:** [Instructor Name]
+**Instructor:** Dr. Segal Yoram
 
 **Authors:** Tom Ron, Igor Nazarenko, Roie Gilad
 
