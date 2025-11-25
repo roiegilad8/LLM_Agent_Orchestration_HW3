@@ -46,7 +46,7 @@ This project implements a multi-agent translation analysis system that measures 
 ### Key Achievements
 
 - ✅ **Professional Architecture**: BaseAgent abstraction with AgentChain orchestration
-- ✅ **Comprehensive Testing**: 36 tests achieving 94% pass rate
+- ✅ **Comprehensive Testing**: 43 tests, 35 passing,2 skipped (81% pass rate)
 - ✅ **Cost Efficiency**: $0.00 operational cost using local Ollama models
 - ✅ **Complete Documentation**: PRD, 3 ADRs, Analysis Notebook, Professional README
 - ✅ **Production-Ready**: CI/CD pipeline, mocking fixtures, cost tracking
@@ -68,9 +68,9 @@ Given a sentence in English, translate it through a multi-language chain (EN →
 
 **Translation Chain**: English → French → Hebrew → English  
 **Error Rates**: 0%, 10%, 20%, 30%, 40%, 50%  
-**Test Sentences**: 2 sentences (15+ words each)  
+**Test Sentences**: 3 sentences (15+ words each)  
 **Repetitions**: 3 runs per configuration  
-**Total Experiments**: 36 translation chains
+**Total Experiments**: 54 translation chains
 
 ### Mathematical Formulation
 
@@ -131,7 +131,7 @@ This implementation includes professional software engineering practices:
 #### Testing & CI/CD
 - **Pytest Fixtures**: Mock Ollama API responses for deterministic testing
 - **GitHub Actions**: Automated testing on every push with coverage enforcement
-- **Test Coverage**: 94% pass rate across all modules (36 tests)
+- **Test Coverage**: 81% pass rate across all modules (43 tests)
 - **Fast Tests**: 30-second execution vs. 20 minutes with live API
 
 #### Cost Tracking
@@ -155,8 +155,8 @@ This implementation includes professional software engineering practices:
 
 | Metric | Value | Status |
 |--------|-------|--------|
-| **Test Coverage** | 94% | ✅ Excellent |
-| **Total Tests** | 36 | ✅ Comprehensive |
+| **Test Coverage** | 81% | ✅ |
+| **Total Tests** | 43 | ✅ Comprehensive |
 | **Execution Time** | 20-25 min | ✅ Reasonable |
 | **Operational Cost** | $0.00 | ✅ Zero |
 | **Git Commits** | 15+ | ✅ Good |
@@ -502,7 +502,7 @@ This project includes comprehensive documentation:
    - Multilingual support (101 languages)
    - Performance vs. cost trade-offs
 
-4. **[ADR-003: Error Injection](ADR/ADR-003-error-injection.md)** ✅ FIXED
+4. **[ADR-003: Error Injection](ADR/ADR-003-error-injection.md)** 
    - Word-level injection strategy (not character-level)
    - Language-agnostic approach
    - Reproducibility considerations
@@ -586,7 +586,7 @@ class AgentChain:
 
 ### Comprehensive Test Suite
 
-36 tests achieving 94% pass rate:
+43 tests achieving 81% pass rate:
 
 ```bash
 # Run all tests
@@ -608,10 +608,10 @@ open htmlcov/index.html
 | Module | Tests | Status |
 |--------|-------|--------|
 | **Agents** | 16 | ✅ |
-| **Error Injection** | 14 | ✅ (FIXED) |
+| **Error Injection** | 14 |
 | **Embeddings** | 8 | ✅ |
 | **Cost Tracker** | 5 | ✅ |
-| **Total** | **36** | **✅ 94%** |
+| **Total** | **43** | **✅ 81%** |
 
 ---
 
@@ -729,7 +729,7 @@ embedding:
 - ✅ Unit tests for all modules
 - ✅ Integration tests for complete pipeline
 - ✅ Edge case coverage
-- ✅ 94% test pass rate
+- ✅ 81% test pass rate
 - ✅ Automated testing via GitHub Actions
 
 ---
@@ -757,7 +757,7 @@ This project is developed for educational purposes as part of M.Sc. Data Science
 
 **Course:** LLM Agent Orchestration  
 **Assignment:** Homework 3 - Multi-Agent Translation Analysis  
-**Date:** November 2025
+**Date:** 25 November 2025
 
 ### Authors
 
@@ -798,7 +798,7 @@ This project is developed for educational purposes as part of M.Sc. Data Science
 
 ---
 
-**Last Updated:** November 24, 2025  
+**Last Updated:** November 25, 2025  
 **Version:** 1.1.0 (Fixed)  
 **Status:** Ready for Submission ✅  
 **Repository:** https://github.com/roiegilad8/LLM_Agent_Orchestration_HW3
